@@ -53,6 +53,9 @@ The **IPL 2025 Auction Dashboard** is an interactive Power BI dashboard that pro
 
 ---
 
+## 📂 Project Link:
+https://app.powerbi.com/view?r=eyJrIjoiY2Q5MjkzZDgtYjg4Zi00YmY1LWIzNzItNWY5OWU0ZTBjNjY1IiwidCI6ImNhNDRjMjVmLTQ3ZTktNGM5MC1hYTMzLWYwOWU1MjRlMGZkYSJ9
+
 ## Dashboard Screenshots  
 
 ### 1. **Home Overview**  
@@ -67,7 +70,6 @@ The **IPL 2025 Auction Dashboard** is an interactive Power BI dashboard that pro
 ### 4. **Spending on Indian Players**  
 ![Indian Spending](https://github.com/DipankarRaman/IPL-2025-Auction-Dashboard/blob/main/Dashboard/Indian.png)
 
----
 
 ## Feedback & Contributions  
 
